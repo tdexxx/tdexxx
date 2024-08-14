@@ -1,4 +1,4 @@
-- 📌 My Blog👉[blog.tdexxx.cf](https://blog.tdexxx.cf/)
+- 📌 My Blog👉[tdexxx.github.io](https://tdexxx.github.io/)
 - 👋 Hi, I’m @tdexxx
 - 👀 I’m interested in interesting open source project
 - 🌱 I’m currently learning Web、C++、C# and Java
